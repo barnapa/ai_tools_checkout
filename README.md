@@ -46,3 +46,7 @@ Busy content creators can use this. Platform  have options for personalization, 
    Best AI Coding Assistants Listed In Order
 5) SciSpace copilot
    helps research docs and scientific papers
+6) smartcontracts and ai tool
+   Contractable.AI  - smartcontracts generator
+   Very advanced chatGPT for chains and blockchains.
+   https://www.chaingpt.org/ 
