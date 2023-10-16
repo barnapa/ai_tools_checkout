@@ -50,3 +50,10 @@ Busy content creators can use this. Platform  have options for personalization, 
    Contractable.AI  - smartcontracts generator
    Very advanced chatGPT for chains and blockchains.
    https://www.chaingpt.org/ 
+   it has variety of tools: General Assistant, Smart Contract Generator, Smart Contract Auditor
+
+7) general productivity and writing skills
+a) Wordtune - writing assistant
+b) Copy.ai - quite well functioning content writer using internet assets in new ways, smart summarizing and similar features.
+c) Writesonic - a piece of chatGPT-4 , but tool rahter focused on short text content like emails or blogposts.
+
