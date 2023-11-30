@@ -47,10 +47,15 @@ Busy content creators can use this. Platform  have options for personalization, 
 5) SciSpace copilot
    helps research docs and scientific papers
 6) smartcontracts and ai tool
-   Contractable.AI  - smartcontracts generator
+a)   Contractable.AI  - smartcontracts generator
    Very advanced chatGPT for chains and blockchains.
    https://www.chaingpt.org/ 
    it has variety of tools: General Assistant, Smart Contract Generator, Smart Contract Auditor
+
+b) Ontra " is AI-powered solutions
+to gain a competitive edge in fundraising and dealmaking"
+https://www.ontra.ai/
+As a provider of settlement automation is a platform which combines the satisfaction of artificial intelligence and software with a global network of specialized in market offers and not only attorneys to offer. Final complete and scalable solution for your law and business issues.
 
 7) general productivity and writing skills
 a) Wordtune - writing assistant
