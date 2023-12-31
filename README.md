@@ -62,3 +62,6 @@ a) Wordtune - writing assistant
 b) Copy.ai - quite well functioning content writer using internet assets in new ways, smart summarizing and similar features.
 c) Writesonic - a piece of chatGPT-4 , but tool rahter focused on short text content like emails or blogposts.
 
+8) Community based projects
+   a) Data Science
+   1. https://huggingface.co/ Data Science driven by community and ai
